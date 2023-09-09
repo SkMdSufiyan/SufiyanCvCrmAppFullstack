@@ -1,1 +1,1 @@
-Customer Relationship Management (CRM) backend source code.
+Customer Relationship Management (CRM) application backend source code.
