@@ -1,5 +1,0 @@
-services:
-  - name: server
-    buildCommand: npm install && npm start
-    envVars:
-      NODE_ENV: production
