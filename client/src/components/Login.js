@@ -146,7 +146,7 @@ useEffect(() => {
       
 
         
-        <p className='app-suggestion-p'>Scroll down for demo credentials !</p>
+        <p className='app-suggestion-p'>Scroll down for demo credentials ↓↓</p>
         
       
             <div className='login-card-div'>
@@ -182,7 +182,7 @@ useEffect(() => {
           <br />
           <br />
             <div className='login-suggestion-div'>
-              <p className='app-suggestion-p'>Select appropriate category of user for demo credentials !</p>
+              <p className='app-suggestion-p'>Select appropriate category of user for demo credentials ↓↓</p>
               <Button className='home-page-Button-class' size='sm' color='primary' onClick={()=>setLoginFormData(demoCredAdmin)}>Admin</Button>
               <Button className='home-page-Button-class' size='sm' color='warning' onClick={()=>setLoginFormData(demoCredManager)}>Manager</Button>
               <Button className='home-page-Button-class' size='sm' color='info' onClick={()=>setLoginFormData(demoCredEmpWithRights)}>Employee with rights</Button>
